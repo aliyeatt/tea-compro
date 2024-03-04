@@ -1,0 +1,2 @@
+# tea-compro
+tea testnet
